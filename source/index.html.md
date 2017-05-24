@@ -162,7 +162,7 @@ Post-authentication, index.html exchanges the returned authorization token for a
     <script src='./lib/fhir-client.min.js'></script>
     <script>
       FHIR.oauth2.authorize({
-        'client_id': '<enter your client id here>',
+        'client_id': '46dfe6ef-60b4-4c52-969a-b44955bbc81e',
         'scope':  'patient/Patient.read patient/Observation.read launch online_access openid profile'
       });
     </script>
