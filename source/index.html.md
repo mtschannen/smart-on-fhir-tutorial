@@ -67,7 +67,7 @@ The other content you see in the source folder is the site for this tutorial. We
   <head>
     <meta http-equiv='X-UA-Compatible' content='IE=edge' />
     <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
-    <title>[YOUR-USERNAME]Example-SMART-App</title>
+    <title>mtschannen - Example-SMART-App</title>
     ...
 ```
 
